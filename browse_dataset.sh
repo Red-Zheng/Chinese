@@ -1,0 +1,1 @@
+python tools/analysis_tools/browse_dataset.py /mnt/big_disk/gbw/new_mmdetection/mmdetection-main/configs/mask_rcnn/mask-rcnn_r50_fpn_1x_coco.py --output-dir /mnt/big_disk/gbw/new_mmdetection/mmdetection-main/vis_2_15
